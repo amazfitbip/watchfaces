@@ -9,5 +9,7 @@ unzip the resource you choose into _Mili_chaohu.res/ by overwriting the original
 
 tools/res2img.py -p -i Mili_chaohu.res  
 
-flash  Mili_chaohu.res.new  
+rename Mili_chaohu.res.new to Mili_chaohu.res
+
+flash  Mili_chaohu.res
 
